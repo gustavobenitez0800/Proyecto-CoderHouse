@@ -1,6 +1,5 @@
 header {
-  background-color: #3498db;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 20px;
 }
 header h1 {
@@ -21,7 +20,7 @@ nav ul li {
   margin-right: 20px;
 }
 nav ul li a {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 nav ul li a:hover {
@@ -45,7 +44,7 @@ main {
   width: 620px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #9eb4cc;
+  background-color: rgba(255, 255, 255, 0.582);
 }
 main .content {
   margin-bottom: 20px;

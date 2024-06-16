@@ -7,11 +7,12 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
+    background-color: #343a40;
 }
 
 header {
     background-image: url(../img/design1_image2.jpg);
-    color: #fff;
+    color: black;
     padding: 20px 0;
     text-align: center;
 }
